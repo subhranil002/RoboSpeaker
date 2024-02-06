@@ -1,6 +1,6 @@
 # RoboSpeaker
 
-RoboSpeaker is a Python script that utilizes the `pyttsx3` library to convert text input into speech output. This script is designed for Windows users.
+RoboSpeaker is a Python script crafted for Windows users. It employs the `pyttsx3` library to convert text input into speech output. Designed for simplicity, it allows users to seamlessly transform text messages into spoken words, enhancing accessibility and convenience.
 
 ## Prerequisites
 
